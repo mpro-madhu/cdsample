@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        cicddemo
+        cicddemo-title
       </h1>
       <div class="links">
         <a
